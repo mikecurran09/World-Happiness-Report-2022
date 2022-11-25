@@ -3,7 +3,7 @@
 Python analysis of the World Happiness Report database as part of the Data Analyst course at Careerfoundry
 
 ## Objective
-![WHR](https://raw.githubusercontent.com/MattOssachuk/Instacart-repository/main/Picture1.png)
+![WHR](https://github.com/mikecurran09/World-Happiness-Report-2022/blob/main/World%20Happiness%20Report.png)
 
 The World Happiness Report is a landmark survey of the state of global happiness that ranks 150 countries by how happy thier citizens percieve themselves to be. This study dives into the main theme of the report and how the six pillars of percieved happiness.
 
