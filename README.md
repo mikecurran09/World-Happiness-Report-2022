@@ -1,6 +1,6 @@
 # World-Happiness-Report-2022
 
-Python analysis of the World Happiness Report database as part of the Data Analyst course at Careerfoundry
+Python analysis of the World Happiness Report database
 
 ## Objective
 ![WHR](https://github.com/mikecurran09/World-Happiness-Report-2022/blob/main/World%20Happiness%20Report.png)
