@@ -17,8 +17,8 @@ For this project, the following tools were used:
 * Seaborn
 * Matplotlib
 * Numpy
-*Folium
-*JSON
-*Sklearn
-*Plylab
-*Statsmodels
+* Folium
+* JSON
+* Sklearn
+* Plylab
+* Statsmodels
